@@ -1,9 +1,9 @@
-DDD = Domain-Driven Design
-API | Domain | Infrastructure
-EF Core 6
-Swagger
-Sql Server
-JWT = Json Web Token
+DDD = Domain-Driven Design </br>
+API | Domain | Infrastructure </br>
+EF Core 6 </br>
+Swagger </br>
+Sql Server </br>
+JWT = Json Web Token </br>
 
 Problemas: 
 * Falta configurar o contexto para conectar ao banco de dados.
